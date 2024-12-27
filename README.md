@@ -1,8 +1,8 @@
-## **👋 Manvendra Singh - Software Engineer with Machine Learning Expertise**
+## **👋 Manvendra Singh - Software Engineer Aspiring to Excel in Machine Learning and Full-Stack Development**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manvendra9830&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Manvendra9830&color=blueviolet&style=flat-square)
 
-Welcome to my GitHub profile! I’m Manvendra Singh, a Software Engineer with expertise in Machine Learning. My work focuses on leveraging data and cutting-edge algorithms to solve complex problems and develop innovative solutions. Explore my projects to see how I integrate technology to drive impactful results.
+Welcome to my GitHub profile! I’m Manvendra Singh, a Software Engineer with a strong foundation in frontend development and a keen interest in exploring machine learning and full-stack development. I am passionate about learning and building innovative solutions to solve real-world problems. Explore my repositories to see my journey and aspirations.
 
 ---
 
@@ -16,56 +16,63 @@ Welcome to my GitHub profile! I’m Manvendra Singh, a Software Engineer with ex
 
 ## **🌟 Professional Summary**
 
-As a Software Engineer with a passion for Machine Learning, I specialize in developing data-driven solutions that address real-world challenges. Proficient in programming, database management, and algorithmic optimization, I am committed to enhancing performance and achieving excellence in every project I undertake.
+I'm a Software Engineer focusing on frontend development while aspiring to become proficient in full-stack development and machine learning. I aim to contribute to meaningful projects and continuously expand my knowledge.
 
 ---
 
 ## **🏆 Achievements**
 
-- **Luminous Techno-X 2024:** 2nd Place among 95,116 participants
-- **Coordinator of CodesocClub:** Spearheading coding initiatives at IIIT Raichur
-- **Basketball Team Captain:** Led the team to 3rd place finishes at Inter IIIT competitions (2023-2024)
+- **Luminous Techno-X 2024:** 2nd place out of 95,116 participants.
+- **CodesocClub Coordinator (IIIT Raichur):** Led initiatives to enhance coding skills and collaborative problem-solving.
+- **Inter IIIT Basketball Captain (2023-2024):** Achieved 3rd place finishes for two consecutive years.
 
 ---
 
-## **💼 Key Skills**
+## **💼 Key Projects**
+
+### **Hospital Management System**
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
+- Developed a secure, scalable system to manage hospital operations.  
+- Reduced patient check-in time by 25%.  
+
+[Project Repository](https://github.com/Manvendra9830/Hospital_DBMS_project)
+
+### **Timetable Scheduler**
+**Tech Stack:** HTML, CSS, Flask, SQL, Genetic Algorithms  
+- Created an intelligent timetable generator to optimize class schedules.  
+- Improved resource allocation and reduced conflicts by 40%.  
+
+[Project Repository](https://github.com/Manvendra9830/Time_Table_Generator)
+
+### **OS Scheduling and System Calls Implementation**
+**Tech Stack:** MINIX 3, C, System Programming  
+- Designed system calls and priority scheduling algorithms.  
+- Improved CPU utilization by 20% and reduced process waiting time.  
+
+### **Luminous Techno-X Techathon 2024**
+**Tech Stack:** PostgreSQL, Neon Database, ReactJS  
+- Designed an AI-driven platform to optimize energy usage and reduce costs through predictive modeling.  
+- Achieved 2nd place in a national competition with over 95,000 participants.  
+
+[Project Repository](https://github.com/Manvendra9830/Luminous-TechnoX-Techathon-2024.git)
+
+
+---
+
+## **💻 Technical Skills**
 
 ### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 
-### **Frameworks & Libraries**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+### **Frameworks & Tools**
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-### **Tools & Technologies**
-![SQL](https://img.shields.io/badge/SQL-%230A0A0A.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%230078D7.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### **Cloud & Deployment**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## **📝 Experience Highlights**
-
-### **Software Engineering Projects**
-
-#### **Hospital Management System**
-- Developed a secure, scalable platform to manage patient records, appointments, and billing.
-- Reduced patient check-in time by 25% through efficient data handling and optimized design principles.
-
-#### **Timetable Scheduler**
-- Created an intelligent scheduling system using genetic algorithms to optimize class timetables.
-- Reduced scheduling conflicts by 40% and improved resource allocation.
-
-### **Teaching Assistant**
-- Mentored 70+ students at IIIT Raichur in Software Engineering and advanced problem-solving.
-- Enhanced students' coding assessments and real-world development skills.
+### **Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -73,19 +80,15 @@ As a Software Engineer with a passion for Machine Learning, I specialize in deve
 
 **B.Tech, Computer Science & Engineering**  
 *Indian Institute of Information Technology, Raichur*  
-*CGPA:* 8.4/10  
+*CGPA:* 8.4/10
 
 ---
 
-## **📂 Featured Projects**
+## **🌐 Stats & Animations**
 
-- [Hospital Management System](https://github.com/Manvendra9830/Hospital_DBMS_project)
-- [Timetable Scheduler](https://github.com/Manvendra9830/Time_Table_Generator)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra9830&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manvendra9830&show_icons=true&theme=radical)
 
 ---
 
-## **🌍 Visual Highlights**
-
-![Adaptable](Images/Adaptable.png) ![Architecture](Images/Architecture.png) ![Cloud](Images/Cloud.png) ![Dashboard](Images/Dashboard.png) ![POC](Images/POC.png)
-
-Thank you for visiting my profile! Feel free to connect or explore my repositories for collaborations or discussions.
+Feel free to connect with me or explore my work. Let's collaborate on exciting projects and push the boundaries of innovation!
