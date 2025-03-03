@@ -80,7 +80,7 @@ I'm a Software Engineer focusing on frontend development while aspiring to becom
 
 **B.Tech, Computer Science & Engineering**  
 *Indian Institute of Information Technology, Raichur*  
-*CGPA:* 8.4/10
+*CGPA:* 8.55/10
 
 ---
 
