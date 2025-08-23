@@ -1,94 +1,119 @@
-## **👋 Manvendra Singh - Software Engineer Aspiring to Excel in Machine Learning and Full-Stack Development**
+## 👋 Manvendra Singh - Software Engineer | AI/ML & Full-Stack Development Enthusiast  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manvendra9830&color=blueviolet&style=flat-square)
 
-Welcome to my GitHub profile! I’m Manvendra Singh, a Software Engineer with a strong foundation in frontend development and a keen interest in exploring machine learning and full-stack development. I am passionate about learning and building innovative solutions to solve real-world problems. Explore my repositories to see my journey and aspirations.
+Welcome to my GitHub profile!  
+I’m **Manvendra Singh**, a **B.Tech Computer Science student at IIIT Raichur (2022–2026)**.  
+I have a strong foundation in **software engineering, web development, and AI/ML**, with hands-on experience in building intelligent systems and scalable platforms. My work spans across **AI research, energy optimization, healthcare, and geospatial analytics**.  
 
 ---
 
-## **📧 Contact Information**
+## 📧 Contact Information  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manvendra9830@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvendra-singh-837874290/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manvendra9830)
-
----
-
-## **🌟 Professional Summary**
-
-I'm a Software Engineer focusing on frontend development while aspiring to become proficient in full-stack development and machine learning. I aim to contribute to meaningful projects and continuously expand my knowledge.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manvendra9830@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvendra-singh-837874290/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manvendra9830)  
 
 ---
 
-## **🏆 Achievements**
+## 🌟 Professional Summary  
 
-- **Luminous Techno-X 2024:** 2nd place out of 95,116 participants.
-- **CodesocClub Coordinator (IIIT Raichur):** Led initiatives to enhance coding skills and collaborative problem-solving.
-- **Inter IIIT Basketball Captain (2023-2024):** Achieved 3rd place finishes for two consecutive years.
+- **Research Intern @ Wadhwani School of Data Science and AI, IIT Madras (May 2025–Present):**  
+  Working on **Visual Place Recognition (VPR)** for low-power AI deployments. Optimizing models (pruning, quantization, early-exit) for real-world, community-focused solutions.  
 
----
-
-## **💼 Key Projects**
-
-### **Hospital Management System**
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
-- Developed a secure, scalable system to manage hospital operations.  
-- Reduced patient check-in time by 25%.  
-
-[Project Repository](https://github.com/Manvendra9830/Hospital_DBMS_project)
-
-### **Timetable Scheduler**
-**Tech Stack:** HTML, CSS, Flask, SQL, Genetic Algorithms  
-- Created an intelligent timetable generator to optimize class schedules.  
-- Improved resource allocation and reduced conflicts by 40%.  
-
-[Project Repository](https://github.com/Manvendra9830/Time_Table_Generator)
-
-### **OS Scheduling and System Calls Implementation**
-**Tech Stack:** MINIX 3, C, System Programming  
-- Designed system calls and priority scheduling algorithms.  
-- Improved CPU utilization by 20% and reduced process waiting time.  
-
-### **Luminous Techno-X Techathon 2024**
-**Tech Stack:** PostgreSQL, Neon Database, ReactJS  
-- Designed an AI-driven platform to optimize energy usage and reduce costs through predictive modeling.  
-- Achieved 2nd place in a national competition with over 95,000 participants.  
-
-[Project Repository](https://github.com/Manvendra9830/Luminous-TechnoX-Techathon-2024.git)
-
+- **Head of Corporate Relations, T&P Cell @ IIIT Raichur (Jan 2025–Present):**  
+  Coordinated with recruiters (Amazon, UKG, Tata, etc.), organized placement drives and hackathons, and streamlined workflows reducing manual effort by **30%**.  
 
 ---
 
-## **💻 Technical Skills**
+## 🏆 Achievements  
 
-### **Programming Languages**
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-
-### **Frameworks & Tools**
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-
-### **Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+- **First Runner-up – Luminous Techno-X Hackathon 2024** (95,116 participants).  
+- **Kaggle x Google 5-Day Generative AI Intensive Course** (2025).  
+- **Codesoc Club Coordinator, IIIT Raichur:** Led coding initiatives and peer learning.  
+- **Basketball Captain (IIIT Raichur):** Secured consecutive podium finishes at Inter-IIIT tournaments.  
 
 ---
 
-## **🎓 Education**
+## 💼 Key Projects  
 
-**B.Tech, Computer Science & Engineering**  
+### 🔹 **SolarWise: AI-Powered Energy Management Platform**  
+**Tech Stack:** React.js, PostgreSQL, Neon DB  
+- Built a **ToD/ToU-based platform** for optimizing solar energy usage & costs.  
+- Integrated **AI prediction models** for consumption & tariff optimization.  
+- 🚀 [GitHub Repo](https://github.com/Manvendra9830/Luminous-TechnoX-Techathon-2024) | [Live App](https://luminous-techno-x-techathon-2024.vercel.app/)  
+
+---
+
+### 🔹 **Phonation Classification via Self-Supervised Learning**  
+**Tech Stack:** PyTorch, HuBERT, Python  
+- Achieved **91.23% accuracy** on IITM Voice Dataset using HuBERT embeddings.  
+- Compared multiple classifiers (SVM, RF, MLP) layer-wise.  
+- 🚀 [GitHub Repo](https://github.com/Manvendra9830/Mini_Project_SSL_Phontation_classify.git)  
+
+---
+
+### 🔹 **ForestCut: Temporal Deforestation Detection & Prediction**  
+**Tech Stack:** Python, Google Earth Engine, LSTM, JavaScript  
+- Automated **NDVI time-series analysis** to monitor global land-cover changes.  
+- Developed **LSTM models** for forecasting deforestation with high accuracy (MSE: 0.02).  
+- 🚀 [GitHub Repo](https://github.com/Manvendra9830/Forest-Cut-Temporal-Detection-and-Prediction)  
+
+---
+
+### 🔹 **Reddit Persona Generator (LLM-based)**  
+**Tech Stack:** Python, Ollama, PRAW, Mistral/LLaMA  
+- Scraped Reddit user activity to build structured datasets.  
+- Generated AI-driven **detailed personas** (demographics, behavior, interests).  
+- 🚀 [GitHub Repo](https://github.com/Manvendra9830/Reddit_Persona_Maker.git)  
+
+---
+
+### 🔹 **Hospital Management System**  
+**Tech Stack:** HTML, CSS, JS, PHP, MySQL  
+- Developed a secure, scalable hospital database system.  
+- Improved patient check-in times by **25%**.  
+- 🚀 [GitHub Repo](https://github.com/Manvendra9830/Hospital_DBMS_project)  
+
+---
+
+### 🔹 **Timetable Scheduler (Genetic Algorithm)**  
+**Tech Stack:** Flask, SQL, Genetic Algorithms  
+- Designed a **timetable generator** reducing scheduling conflicts by **40%**.  
+- 🚀 [GitHub Repo](https://github.com/Manvendra9830/Time_Table_Generator)  
+
+---
+
+### 🔹 **OS Scheduling & System Calls Implementation**  
+**Tech Stack:** MINIX 3, C  
+- Implemented **priority scheduling algorithms** & a custom system call.  
+- Improved CPU utilization by **20%**.  
+
+---
+
+## 💻 Technical Skills  
+
+**Languages:** C, C++, Python, JavaScript, PHP  
+**Web & Frameworks:** React.js, Flask, HTML, CSS (Tailwind)  
+**Databases:** MySQL, PostgreSQL, Neon DB, Vector DBs  
+**Libraries & ML Tools:** Scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, LangGraph  
+**Other Tools:** GitHub, VS Code, Grafana, XAMPP | OOP, Prompt Engineering, RAG Pipelines  
+
+---
+
+## 🎓 Education  
+
+**B.Tech, Computer Science & Engineering (2022–2026)**  
 *Indian Institute of Information Technology, Raichur*  
-*CGPA:* 8.55/10
+*CGPA:* 8.38/10  
 
 ---
 
-## **🌐 Stats & Animations**
+## 🌐 Stats & Animations  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra9830&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manvendra9830&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manvendra9830&show_icons=true&theme=radical)  
 
 ---
 
-Feel free to connect with me or explore my work. Let's collaborate on exciting projects and push the boundaries of innovation!
+⭐️ Feel free to explore my repositories and connect with me. I’m open to **collaborations in AI/ML research, full-stack projects, and impactful open-source contributions**!  
