@@ -92,8 +92,4 @@ Indian Institute of Information Technology, Raichur
 **CGPA:** 8.38 / 10
 
 ---
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra9830&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manvendra9830&show_icons=true&theme=radical)
-
 ⭐️ Open to **software engineering, ML, and applied AI opportunities**
