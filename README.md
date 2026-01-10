@@ -23,7 +23,7 @@ My experience spans **AI research, scalable web platforms, energy optimization, 
 ## 💼 Experience
 
 **Research Intern — Wadhwani School of Data Science & AI, IIT Madras**  
-*May 2025 – Present*  
+*May 2025 – Nov 2025*  
 - Working on **Visual Place Recognition (VPR)** for low-power AI deployments  
 - Model optimization using **pruning, quantization, and early-exit strategies**
 
