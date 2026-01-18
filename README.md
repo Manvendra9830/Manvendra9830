@@ -89,7 +89,7 @@ My experience spans **AI research, scalable web platforms, energy optimization, 
 
 **B.Tech — Computer Science & Engineering (2022–2026)**  
 Indian Institute of Information Technology, Raichur  
-**CGPA:** 8.38 / 10
+**CGPA:** 8.41 / 10
 
 ---
 ⭐️ Open to **software engineering, ML, and applied AI opportunities**
